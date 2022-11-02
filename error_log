@@ -1,0 +1,1 @@
+[11-Oct-2022 12:43:07 Europe/London] PHP Warning:  log() expects parameter 1 to be float, string given in /home/dev/public_html/Applepay/validate-merchant.php on line 14
